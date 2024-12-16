@@ -11,3 +11,6 @@
 # Images
 
 ![.](https://github.com/soneviconia/icon/raw/main/pythings/image2.png)
+
+# Used:
+`pip install termcolor`
