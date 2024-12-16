@@ -4,8 +4,6 @@
 
 # Versions:
 
-Versions are shown here to show what has changed
-
 ## 1.0
 - Random number from 0 to "x"
 
